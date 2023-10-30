@@ -28,7 +28,7 @@ Here's a link to the [about](about.html) page
 Here's a link to the [Projects](Projects.html) page
 
 
-#Here's a new section
+# Here's a new section
 
 My cat is pudding, this is pudding:
 ![](image/pudding.jpeg)
