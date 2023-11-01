@@ -37,3 +37,7 @@ Also here is the other pudding image
 
 ![](image/cat.jpeg)
 
+# Other stuff on this page
+
+Definitely there is [plotly](plotly.html) stuff!
+
