@@ -7,8 +7,8 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
-    - text: "plotly"
-      href: plotly.html
+    - text: "Plotly"
+      href: Plotly.html
     - icon: fa-envelope fa-lg
       href: mailto:<yl5214@cumc.columbia.edu>
     - icon: fa-github fa-lg
